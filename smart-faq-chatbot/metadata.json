@@ -1,0 +1,6 @@
+{
+  "name": "Smart FAQ Chatbot",
+  "description": "Your quick FAQ assistant powered by NLP text preprocessing and TF-IDF cosine similarity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
